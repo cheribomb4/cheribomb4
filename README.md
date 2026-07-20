@@ -27,9 +27,7 @@ I'm passionate about applying AI to enterprise software, automation, and busines
 
 ## Featured Projects
 
-🚧 Portfolio currently under active development.
-
-Projects will be published here as they are completed and modernized.
+🚧 I'm currently recovering and modernizing several AI projects before publishing them here.
 
 ---
 
