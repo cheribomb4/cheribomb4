@@ -2,7 +2,7 @@
 
 **Enterprise Systems Engineer | Applied AI & Agentic AI Engineer**
 
-I have over 20 years of experience delivering enterprise technology solutions at **SAP**, **Intel**, **HP**, and **Accenture**. Today, I'm focused on designing and building AI-powered systems that automate business processes and solve real-world enterprise challenges.
+I have over 20 years of experience delivering enterprise technology solutions at **SAP**, **Intel**, **HP**, and **Accenture**. Today, I'm designing and building AI-powered systems that automate enterprise workflows, integrate with business platforms, and apply modern agentic AI techniques to solve real-world problems.
 
 ## Current Focus
 
